@@ -1,8 +1,8 @@
-[![MasterHead](https://fr.pinterest.com/pin/628392954233191163/)]
+[![MasterHead](https://fr.pinterest.com/pin/628392954233191163/)](OUS-M-ANE01.IO)
 
 <h1 align="center">Salut👋, je suis OUSMANE CAMARA</h1>
 <h3 align="center">Je suis un passionné d'informatique, je m'intéresse un peu a tout ce qui tourne autour de l'outil informatique. Actu je souhaite devenir Dev full-stack et avoir aussi des aptitude en cyber-sécurité car j'ai toujour voulu associer toutes ces competence alors bonne chance a moi😊🙏</h3>
-(img align="right" alt="Codage" width="400" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif")
+<img align="right" alt="Codage" width="400" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif"/>
 
 - 🔭 Je travaille actuellement sur [UNI-PRO](https://www.figma.com/proto/rStZdbJf8mbr98MRMN2hny/UNI-PRO?node-id=589-3399&p=f&t=acrXIMJm5u5oPAA6-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=586%3A3127&show-proto-sidebar=1)
 
