@@ -12,9 +12,9 @@
 - 👨‍💻 Tous mes projets sont disponibles sur [https://ous-m-ane01.github.io/MY_PORTFOLIO/](https://ous-m-ane01.github.io/MY_PORTFOLIO/)
 
 - 📫 Comment me joindre **camsousmane01@gmail.com**
-- <span><p align="center">
+  <p align="center">
     <img align="center" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
-</p> <span/>
+</p> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
