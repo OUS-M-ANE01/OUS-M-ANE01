@@ -1,5 +1,4 @@
-[![MasterHead](https://fr.pinterest.com/pin/628392954233191163/)](OUS-M-ANE01.IO)
-
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Salut👋, je suis OUSMANE CAMARA</h1>
 <h3 align="center">Je suis un passionné d'informatique, je m'intéresse un peu a tout ce qui tourne autour de l'outil informatique. Actu je souhaite devenir Dev full-stack et avoir aussi des aptitude en cyber-sécurité car j'ai toujour voulu associer toutes ces competence alors bonne chance a moi😊🙏</h3>
 <img align="right" alt="Codage" width="400" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif"/>
@@ -15,9 +14,6 @@
 - 👨‍💻 Tous mes projets sont disponibles sur [https://ous-m-ane01.github.io/MY_PORTFOLIO/](https://ous-m-ane01.github.io/MY_PORTFOLIO/)
 
 - 📫 Comment me joindre **camsousmane01@gmail.com**
-  <p align="center">
-    <img align="center" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
-</p> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
