@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Je travaille actuellement sur [UNI-PRO](https://www.figma.com/proto/rStZdbJf8mbr98MRMN2hny/UNI-PRO?node-id=589-3399&p=f&t=acrXIMJm5u5oPAA6-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=586%3A3127&show-proto-sidebar=1)
+- 🔭 Je travaille actuellement sur mon mémoire [UNI-PRO](https://www.figma.com/proto/rStZdbJf8mbr98MRMN2hny/UNI-PRO?node-id=589-3399&p=f&t=acrXIMJm5u5oPAA6-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=586%3A3127&show-proto-sidebar=1)
 
 - 🌱 J'apprends actuellement **REACT JS , ANGULAR, REACT NATIVE ,FLUTTER, MONGO DB, SPRING BOOT, FIREBASE,**
 
-- 👯 Je collabore actuellement sur [UNIDOCS](https://unidocs.vercel.app/login)
+- 👯 Je contribue actuellement sur [UNIDOCS](https://unidocs.vercel.app/login)
 
 - 🤝 Je cherche de l’aide avec [PLUME EPHEMERE](https://www.figma.com/proto/GKCNELXCuftmIdgTqE2iQK/PLUME-EPHEMERE?t=ajA7DoCRd41n0W1d-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=5-12&starting-point-node-id=2%3A2)
 
