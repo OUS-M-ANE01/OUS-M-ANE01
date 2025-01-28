@@ -5,7 +5,7 @@
 <img align="right" alt="Codage" width="400" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif"/>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ous-m-ane01&label=Profile%20views&color=0e75b6&style=flat" alt="ous-m-ane01" /> </p>
+<p align="left"> <img align="center" src="https://komarev.com/ghpvc/?username=ous-m-ane01&label=Profile%20views&color=0e75b6&style=flat" alt="ous-m-ane01" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -26,7 +26,7 @@
 </p>
 
 <h3 align="center">Developer Quote</h3>
-<a  href="https://git.io/typing-svg" position="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Les+meilleurs+d%C3%A9veloppeurs+sont+ceux;+qui+continuent+%C3%A0+apprendre." alt="Typing SVG" />
+<a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Les+meilleurs+d%C3%A9veloppeurs+sont+ceux;+qui+continuent+%C3%A0+apprendre." alt="Typing SVG" />
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
