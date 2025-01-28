@@ -27,9 +27,7 @@
 
 <details open>
 <summary>Developer Quote</summary>
-<p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=C2FFC7&center=true&vCenter=true&random=false&width=800&lines=The+people+who+are+crazy+enough+to+think+they+can+change+the+world;are+the+ones+who+do.++-+Steve+Jobs" alt="Developer Quote"/>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%22Les+meilleurs+d%C3%A9veloppeurs+sont+ceux+qui+continuent+%C3%A0+apprendre.%22+;%22Le+d%C3%A9veloppement%2C+c'est+10%25+d'%C3%A9criture+de+code+et+90%25+de+d%C3%A9bogage+de+ce+code.%22+;%22La+technologie+est+un+outil%2C+mais+le+g%C3%A9nie%2C+c'est+le+d%C3%A9veloppeur.%22+)](https://git.io/typing-svg)
 </details>
 
 <h3 align="left">Languages and Tools:</h3>
