@@ -26,7 +26,7 @@
 </p>
 
 <h3 align="center">Developer Quote</h3>
-<a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Les+meilleurs+d%C3%A9veloppeurs+sont+ceux;+qui+continuent+%C3%A0+apprendre." alt="Typing SVG" align="center"/>
+<a  href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Les+meilleurs+d%C3%A9veloppeurs+sont+ceux;+qui+continuent+%C3%A0+apprendre." alt="Typing SVG" />
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
