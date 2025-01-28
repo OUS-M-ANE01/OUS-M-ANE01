@@ -28,7 +28,7 @@
 <details open>
 <summary>Developer Quote</summary>
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Les+meilleurs+d%C3%A9veloppeurs+sont+ceux;+qui+continuent+%C3%A0+apprendre.)(https://git.io/typing-svg)
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Les+meilleurs+d%C3%A9veloppeurs+sont+ceux;+qui+continuent+%C3%A0+apprendre.https://git.io/typing-svg
 "/>
   </p>
 
