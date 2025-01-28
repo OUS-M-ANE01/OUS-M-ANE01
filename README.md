@@ -28,7 +28,7 @@
 <details open>
 <summary>Developer Quote</summary>
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=C2FFC7&center=true&vCenter=true&random=false&width=800&lines=Les+meilleurs+développeurs +sont +ceux +qui +continuent +à +apprendre.;++-+Plume+Ephémère" alt="Developer Quote"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=C2FFC7&center=true&vCenter=true&random=false&width=800&lines=Les+meilleurs+développeurs +sont +ceux +qui +continuent +à +apprendre.;++-+Plume+Ephémère+-+" alt="Developer Quote"/>
 </p>
 </details>
 
